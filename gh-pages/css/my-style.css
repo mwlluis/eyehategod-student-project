@@ -1,0 +1,254 @@
+html,
+body {
+    height: 100%;
+}
+
+/* border correction */
+
+.navbar-fixed-top {
+    top: 0px;
+    border-width: 0px 0px 0px;
+
+}
+
+.navbar-brand img {
+    width: 50px;
+}
+
+.navbar-default {
+    background-color: black;
+}
+
+.shadow {
+    text-shadow: 2px 2px 4px black;
+    color: white;
+}
+
+#who-we-are {
+    background-image: url(../img/teamphoto.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    <!-- width: 100%;
+    --> margin: 0px 125px;
+    color: #333;
+    background-size: cover;
+}
+
+.title {
+    margin: 240px 200px 0px 169px;
+}
+
+.ehgrowtwo img {
+    height: 300px;
+}
+
+.wiki {
+    margin: 8px 70px 10px;
+    text-align: justify;
+}
+
+#ehg {
+    background-color: grey;
+}
+
+#ehg img {
+    margin-bottom: 70px;
+    border: 2px solid black;
+padding: 2px;
+    background-color: darkorange;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+#when-where {
+
+
+background-image: url(../img/clark2-crop.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+#who-we-are a {
+    border: 2px solid black;
+    padding: 15px;
+    font-size: 25px;
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+
+}
+
+#who-we-are:hover a {
+
+background-color: darkolivegreen;
+}
+
+.join {
+
+margin-top: 37.5px;
+
+}
+
+#ehg h2 {
+
+font-size: 45px;
+margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.wiki2 {
+    margin: 25px 70px 10px;
+    text-align: justify;
+}
+
+.wiki, .wiki2 {
+
+font-size: 20px;
+
+}
+
+.titletwo {
+
+margin: 200px 0px 0px 0px;
+
+
+}
+
+.caboose {
+
+margin: 0px 0px 200px 0px;
+
+
+}
+
+/* calisthenics section  */
+
+figcaption {
+
+text-align: center;
+font-weight: 600;
+}
+
+.tigerbend {
+margin-left: 13px;
+
+}
+
+#calisthenics p {
+
+text-align: justify;
+font-weight: 600;
+}
+
+#calisthenics h2 {
+
+margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 55px;
+
+}
+
+#calisthenics img {
+
+
+    
+border: 2px solid black;
+}
+
+.calisthenicsrowtwo {
+
+
+}
+
+.topcol {
+
+padding: ;
+
+}
+
+.bottompic {
+
+margin-top: 40px;
+
+}
+
+hr {
+
+width: 80%;
+    border: .125px solid black;
+}
+
+#calisthenics {
+
+color: black;
+
+}
+
+#walker {
+
+height: 195px;
+width: 255px;
+
+}
+
+#walker, #pistol {
+
+    margin-top: 60px;
+
+}
+
+.leecap {
+
+margin-bottom: 25px;
+
+}
+
+/* connect section */
+
+#connect {
+
+background-color: ;
+}
+
+#connect .fa {
+
+font-size: 50px;
+
+}
+
+.fa-youtube-square {
+
+color: red;
+}
+
+#connect a {
+
+
+}
+
+.fa-envelope {
+
+color: darkgray;
+
+}
+
+.fa-twitter {
+
+    color: cyan;
+
+}
+
+.fa-instagram {
+color: black;
+
+}
+
+#connect .fa {
+
+margin: 0px 20px 15px 20px;
+    
+}
